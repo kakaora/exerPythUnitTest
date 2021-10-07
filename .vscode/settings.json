@@ -1,0 +1,7 @@
+{
+    "launch": {
+        "code-runner.executorMap.python": "python3 -u",
+        "configurations": [],
+        "compounds": []
+    }
+}
